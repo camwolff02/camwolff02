@@ -3,9 +3,11 @@
 - 🌱 I’m currently studying at Saddleback College
 - 📫 Reach me at camwolff02@gmail.com or [Linkedin](https://www.linkedin.com/in/cameron-wolff-83ba55218/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camwolff02)](https://github.com/camwolff02/github-readme-stats)
+<!--- DOES NOT WORK, displays most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camwolff02)](https://github.com/anuraghazra/github-readme-stats)
+--->
 
-<!--- ADD WHEN YOU HAVE MORE EXPERIENCE
+<!--- ADD WHEN YOU HAVE MORE EXPERIENCE, displays github commit stats
 [![Cameron's github stats](https://github-readme-stats.vercel.app/api?username=camwolff02&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
