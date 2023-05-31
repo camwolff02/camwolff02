@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Wolff
-- 👀 I’m interested in coding games 🎮 single board computers 🤖 and more
+- 👀 I’m interested in robotics and machine learning
 - 🌱 I’m currently studying at Cal Poly SLO
 - 📫 Reach me at camwolff02@gmail.com or [Linkedin](https://www.linkedin.com/in/cameron-wolff-83ba55218/)
 
